@@ -18,27 +18,6 @@ This website serves as an extension of my resume, providing a detailed overview 
 - React.js (if applicable)
 - GitHub Pages (or any hosting service)
 
-## 📂 Installation & Setup
-If you want to run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jayesh-305/resume-portfolio.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd resume-portfolio
-   ```
-
-3. Open `index.html` in your browser or run a local server:
-   ```bash
-   python -m http.server 8000
-   ```
-   Then, visit `http://localhost:8000` in your browser.
-
-(For React-based setup, install dependencies using `npm install` and start the server using `npm start`.)
-
 ## 🌐 Live Demo
 Check out the live version of my portfolio: [Live Link Here](#) *(Replace with actual link)*
 
